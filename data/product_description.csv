@@ -1,0 +1,14 @@
+,pk_product_ID,product_desc,family_product
+0,4657,em_acount,account
+1,3819,debit_card,payment_card
+2,1364,pension_plan,pension_plan
+3,2234,payroll,account
+4,2235,payroll_account,account
+5,8871,emc_account,account
+6,2312,credit_card,payment_card
+7,2335,short_term_deposit,investment
+8,2336,long_term_deposit,investment
+9,2673,securities,investment
+10,1119,funds,investment
+11,9001,loans,loan
+12,4033,mortgage,loan
